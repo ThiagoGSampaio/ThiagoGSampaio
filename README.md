@@ -9,8 +9,13 @@ Tenho grande interesse por tecnologia e pretendo dar continuidade à minha forma
 
 Estou sempre em busca de novos aprendizados, experiências práticas e boas práticas de programação.
 <p align="left">
-     <a href = "mailto:berlim0608@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="[https://www.linkedin.com/in/thiago-sampaio-337699344?](https://www.linkedin.com/in/thiago-sampaio-337699344?)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="mailto:berlim0608@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/thiago-sampaio-337699344/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
     <a href="https://github.com/ThiagoGSampaio?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
