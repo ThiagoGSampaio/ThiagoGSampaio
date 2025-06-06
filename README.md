@@ -102,9 +102,4 @@ Estou sempre em busca de novos aprendizados, experiências práticas e boas prá
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGSampaio&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-## 🐍 Snake comendo meus commits
-
-![snake gif](https://github.com/ThiagoGSampaio/ThiagoGSampaio/blob/output/github-contribution-grid-snake.svg)
-
-
 </p>
