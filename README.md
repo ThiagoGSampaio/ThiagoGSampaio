@@ -5,7 +5,7 @@
 Me chamo Thiago Gonçalves Sampaio, tenho 18 anos e sou natural de Guarulhos - SP.
 Atualmente, estou concluindo o Ensino Médio integrado ao curso técnico de Desenvolvimento de Sistemas na ETEC.
 
-Tenho grande interesse por tecnologia e pretendo dar continuidade à minha formação em Sistemas para Internet com ênfase em Inteligência Artificial na FATEC, com o objetivo de me tornar um desenvolvedor Full Stack completo e preparado para os desafios do mercado.
+Tenho grande interesse por tecnologia e pretendo dar continuidade à minha formação em Engenharia de software, com o objetivo de me tornar um desenvolvedor Full Stack completo e preparado para os desafios do mercado.
 
 Estou sempre em busca de novos aprendizados, experiências práticas e boas práticas de programação.
 <p align="left">
@@ -92,13 +92,7 @@ Estou sempre em busca de novos aprendizados, experiências práticas e boas prá
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoGSampaio&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
-  />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThiagoGSampaio?cardType=github&theme=gruvbox&preferLogin=false" alt="evandroorso" style="width:49%">
 
 <img 
       align="left" 
